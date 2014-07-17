@@ -1,5 +1,7 @@
 # AmazonLinuxのDockerイメージの作り方  
 
+**これはまだ[WIP]です**
+
 [参考](http://dev.classmethod.jp/cloud/aws/docker-serverspec-configspec-ci/)  
 
 
